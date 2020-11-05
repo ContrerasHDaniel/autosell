@@ -292,6 +292,8 @@ export default {
 }
 
 .brand-span {
+  align-content: center;
+  text-align: center;
   font-size: 0.6rem;
   font-weight: 700;
   margin-right: 0;
