@@ -87,7 +87,7 @@ export default {
 }
 
 .running-car {
-  filter: sepia(50%);
+  filter: sepia(45%);
   margin-bottom: 1.2rem;
   width: 14rem;
   height: 9rem;
